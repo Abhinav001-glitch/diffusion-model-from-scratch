@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MNIST Diffusion Model using PyTorch
 
 A deep learning project that implements a **Denoising Diffusion Probabilistic Model (DDPM)** to generate handwritten digit images using the MNIST dataset. The model learns to reverse a gradual noise-addition process using a time-conditioned U-Net architecture.
