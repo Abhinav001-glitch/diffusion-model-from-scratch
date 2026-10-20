@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 torch>=2.2.0
 torchvision>=0.17.0
@@ -6,3 +7,13 @@ matplotlib>=3.8.0
 tqdm>=4.66.0
 Pillow>=10.0.0
 jupyter>=1.0.0
+=======
+
+torch>=2.2.0
+torchvision>=0.17.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+tqdm>=4.66.0
+Pillow>=10.0.0
+jupyter>=1.0.0
+>>>>>>> 8b8c95e8ab4fc42da53d350700b3d8fd02a667ff

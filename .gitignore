@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Python cache
 __pycache__/
@@ -41,3 +42,48 @@ runs/
 .DS_Store
 Thumbs.db
 desktop.ini
+=======
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Datasets and downloaded data
+data/
+datasets/
+
+# Model checkpoints and weights
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Logs
+logs/
+*.log
+runs/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+>>>>>>> 8b8c95e8ab4fc42da53d350700b3d8fd02a667ff
